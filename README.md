@@ -25,6 +25,8 @@ requires additional hassle before using. The `zx` package provides
 useful wrappers around `child_process`, escapes arguments and
 gives sensible defaults.
 
+TODO: remove this test line.
+
 ## Install
 
 ```bash
